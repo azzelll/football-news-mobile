@@ -3,7 +3,7 @@ import 'package:football_news/widgets/left_drawer.dart';
 import 'package:football_news/widgets/news_card.dart';
 
 class MyHomePage extends StatelessWidget {
-    MyHomePage({super.key}); //sudah ada pada code sebelumnya
+    MyHomePage({super.key}); 
 
     final String nama = "Made Shandy Krisnanda"; //nama
     final String npm = "2406495615"; //npm
