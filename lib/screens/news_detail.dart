@@ -5,7 +5,7 @@ class NewsDetailPage extends StatelessWidget {
   final NewsEntry news;
 
   const NewsDetailPage({super.key, required this.news});
-
+  // test push
   String _formatDate(DateTime date) {
     // Simple date formatter without intl package
     final months = [
